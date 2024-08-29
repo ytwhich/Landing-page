@@ -1,0 +1,150 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#home {
+    background-color: #1a2632;
+    background-image: url('./Pokhara_Overview.webp');
+     padding: 150px 0;
+     height:500px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #home h1 {
+    font-size: 3rem;
+    color:rgb(207, 198, 205);
+  }
+  #home h6{
+    color:rgb(244, 239, 239);
+  }
+  #home p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    color:rgb(245, 226, 226);
+    
+  }
+  .btn-primary {
+    background-color: #4d1a1a;
+    border-color: #211514;
+    border-radius: 10px;
+  }
+  .btn-primary:hover{
+    background-color:orange;
+    border-color: #0056b3;
+   
+  }
+  #Temples{
+    background-color: #1a2632;
+  
+  }
+  #Temples h1{
+    text-align: center;
+    color:white;
+
+  }
+  #places{
+    background-color: #1a2632;
+  }
+  #places h1{
+    text-align:center;
+    color:white;
+  }
+  /* ====== */
+  /* .carousel-section{
+    height:500px;
+   
+  }
+  .carousel-section img{
+    background-size: cover;
+    background-position: center;
+
+  }
+.carousel-item{
+    height:500px;
+  
+  }
+.carousel-item img{
+  background-size: cover;
+  background-position: center;
+
+}
+.contact{
+  border:2px solid red;
+  height:500px;
+  width:100%;
+
+}
+.contact h1{
+  text-align: center;
+} */
+/* .place-sec{
+  height: 60vh;
+}
+.paspati{
+  height: ;
+} */
+#place-sec{
+  height: 50%;
+  
+}
+#contact{
+  background-color: #1a2632;
+
+}
+#contact h1{
+  text-align: center;
+  color:white;
+}
+.footer{
+ /* border:2px solid red;*/
+  height:600px;
+  width:100%;
+}
+.part1{
+   /* border:2px solid red;*/
+    background-color: rgb(88, 118, 143);
+   
+
+}
+.part1 h4{
+  margin-top:3rem;
+  text-align: center;
+  /*word-spacing:;*/
+  letter-spacing: 2.5px;
+  color: aliceblue;
+}
+.part1 li{
+  list-style-type: none;
+  
+
+}
+.list input{
+  padding:10px;
+  width:20rem;
+  border-radius: 5px;
+  font-family: 'Courier New', Courier, monospace;
+  letter-spacing: 2.5px;
+}
+.part2{
+  /*border:2px solid red;*/
+  background-color:  rgb(88, 118, 143);;
+  text-align: center;
+
+}
+
+.list{
+  /*border:2px solid red;*/
+  height:25rem;
+}
+.list li{
+  margin-top:3rem;
+  margin-left: 7.5rem;;
+}
+.part2 h4{
+  margin-top:3rem ;
+  letter-spacing:2.5px ;
+  color:aliceblue
+  
+}
